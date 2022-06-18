@@ -1,4 +1,4 @@
-#ifndef SPLINE_H
+#ifndef ALGORITHMS_H 
 #define ALGORITHMS_H
 
 #include <QImage>
@@ -9,6 +9,7 @@
 #include <utility>
 #include <vector>
 #include <stdexcept>
+#include <cmath>
 
 enum class AlgorithmID
 {

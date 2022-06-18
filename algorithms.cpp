@@ -1,6 +1,4 @@
 #include "algorithms.h"
-#include <cmath>
-#include <vector>
 
 Algorithm* Algorithm::createAlgorithm(AlgorithmID id)
 {
